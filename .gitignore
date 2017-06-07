@@ -1,0 +1,5 @@
+*.jar
+sched.txt
+ScheduleCheck/
+working/
+.idea/
